@@ -1,6 +1,6 @@
 ### Merhaba, ben Turgut Taha Sapmaz! 👋
 
-Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme süreçleriyle ilgileniyorum.
+Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği 2.sınıf öğrencisiyim ve yazılım geliştirme süreçleriyle ilgileniyorum.
 
 C1 seviyesinde İngilizce ve A2 seviyesinde Almanca biliyorum.
 
